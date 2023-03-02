@@ -1,6 +1,13 @@
 div {
-    padding: 20px;
+    padding: 40px;
     border-style: groove;
     border-width: 10px;
     border-color: yellowgreen;
   }
+
+p {
+    padding: 20px;
+    border-style: groove;
+    border-width: 5px;
+    border-color: darkgray;
+}
