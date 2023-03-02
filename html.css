@@ -1,4 +1,6 @@
 div {
     padding: 20px;
-    border: 1px solid #000000
+    border-style: groove;
+    border-width: 10px;
+    border-color: yellowgreen;
   }
