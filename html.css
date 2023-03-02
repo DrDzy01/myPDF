@@ -1,13 +1,31 @@
-div {
-    padding: 40px;
-    border-style: groove;
-    border-width: 10px;
-    border-color: yellowgreen;
+body {
+  background-color: #add8e6be; /* 设置偏灰的蓝色 */
+}
+
+div.divL1 {
+  background-color: #add8e6e1;
+  height: auto;
+  width: 75%;
+  margin: 30px auto;
+  border-style: groove;
+  border-width: 15px;
+  border-color: rgba(153, 205, 50, 0.63);
+}
+
+div.divL2 {
+  border: 15px solid rgba(255, 255, 255, 0.9);
+  border-style: ridge;
+  background-color: beige;
+  padding: 25px;
   }
 
-p {
-    padding: 20px;
+.pL1 {
+    background-color: beige;
+    font-size: 40px;
+    margin: auto;
+    padding: 10px;
     border-style: groove;
-    border-width: 5px;
-    border-color: darkgray;
+    border-width: 10px;
+    border-color: rgba(255, 255, 255, 0.9);
+    text-align: center;
 }
